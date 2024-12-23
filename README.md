@@ -1,3 +1,3 @@
-# Livelongwithcornsava
+# Frontend Application
 
-e-commerce website for living good Healthy food CornSava
+This is the frontend application.
